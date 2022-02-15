@@ -1,1 +1,21 @@
-// TODO
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.buttonPreview {
+  width: 43.75rem;
+  height: 3.625rem;
+  background: #F8F8F8;
+  border-radius: 4px;
+  margin-top: 5.5rem;
+  margin-bottom: 6.625rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #1A1D23;
+}
